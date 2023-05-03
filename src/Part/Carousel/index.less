@@ -1,0 +1,38 @@
+.sc-carousel {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background: #fff;
+
+  .m-bd {
+
+    // 主色调
+    .ant-carousel .slick-dots li button {
+      background: var(--clr-main);
+    }
+
+
+    .slick-slide img {
+      width: 100%;
+    }
+
+    // 底部距离
+    .ant-carousel .slick-dots-bottom {
+      bottom: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+  .sc-list-price {
+    .m-item {
+      width: 100%;
+
+      &+.m-item {
+        margin: 0!important;
+      }
+    }
+
+  }
+}

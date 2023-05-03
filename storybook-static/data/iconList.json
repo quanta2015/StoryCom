@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "code": 0,
+  "data": {
+    "title": "我的应用",
+    "moreUrl": "www.baidu.com?a=查看更多点击的url",
+    "dataSource": [
+      {
+        "label": "模块 A",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      },{
+        "label": "模块 B",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      },{
+        "label": "模块 C",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      },{
+        "label": "模块 D",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      },{
+        "label": "模块 A",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      },{
+        "label": "模块 B",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      },{
+        "label": "模块 C",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      },{
+        "label": "模块 D",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com"
+      }
+    ]
+  }
+}

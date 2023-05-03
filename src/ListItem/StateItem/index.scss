@@ -1,0 +1,123 @@
+//:global {
+.mobile-state-item {
+  background-color: #ffffff;
+  .item-wrap {
+    padding: 16px;
+  }
+
+  .item-wrap-footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: var(--desc-default-size, 12px);
+    color: #999999;
+    align-items: center;
+    margin-bottom: 12px;
+
+    .task-title {
+      width: 100%;
+      display: flex;
+      font-size: 16px;
+      align-items: center;
+    }
+
+    .image {
+      width: 32px;
+      height: 32px;
+      margin-right: 12px;
+    }
+
+    .title-data {
+      margin-right: 8px;
+    }
+    .title-img {
+      width: 32px;
+      height: 32px;
+      background-color: #f5faff;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .text-color {
+      border: none;
+      font-size: var(--desc-default-size, 12px);
+      line-height: initial;
+    }
+
+    .item-title {
+      flex: 1;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      align-items: center;
+      width: 100%;
+      font-size: var(--content-default-size, 15px);
+      color: #000000;
+    }
+    .item-title-state {
+      margin-right: 20px;
+    }
+
+    .state {
+      font-size: var(--desc-default-size, 12px);
+    }
+  }
+
+  .subheads {
+    color: #999;
+    margin: 0;
+    font-size: var(--desc-default-size, 12px);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    .subjoin-data {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      margin-bottom: 4px;
+    }
+    .subjoin-data:last-child {
+      //margin-bottom: 12px;
+      margin-bottom: 0;
+    }
+  }
+
+  .topsol-id {
+    margin-top: 12px;
+    padding-top: 14px;
+    margin-bottom: 0;
+    border-top: 1px solid #e8eaf0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    > span:nth-child(1) {
+      flex: 1;
+      margin-right: 16px;
+    }
+    > span:nth-child(2) {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .show {
+    display: none;
+  }
+
+  p,
+  ul,
+  li {
+    margin: 0;
+    padding: 0;
+  }
+
+  .adm-badge-dot {
+    margin-right: 4px !important;
+    margin-top: 6px !important;
+    min-width: 1px !important;
+    width: 8px !important;
+    height: 8px !important;
+    border-radius: 4px !important;
+  }
+}
+//}

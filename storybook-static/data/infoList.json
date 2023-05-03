@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "code": 0,
+  "data": {
+    "title": "资讯",
+    "moreUrl": "www.baidu.com?a=查看更多点击的url",
+    "dataSource": [
+      {
+        "key": "6",
+        "label": "多行标题文本定位信息展示, 极限值为两行, 超出后点点点展示，如示例所示示例所示示例所示多行标题文本定位信息展示, 极限值为两行, 超出后点点点展示，如示例所示示例所示示例所示",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "time": "2021-2-27 23:00",
+        "amount": "浏览 199",
+        "phone": true
+      },
+      {
+        "key": "7",
+        "label": "多行标题文本定位信息展示, 极限值为两行, 超出后点点点展示，如示例所示示例所示示例所示",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "time": "2021-2-27",
+        "amount": "浏览 199"
+      },
+      {
+        "key": "7",
+        "label": "多行标题文本定位信息展示, 极限值为两行, 超出后点点点展示，如示例所示示例所示示例所示",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "time": "2021-2-27",
+        "amount": "浏览 199"
+      },
+      {
+        "key": "7",
+        "label": "多行标题文本定位信息展示, 极限值为两行, 超出后点点点展示，如示例所示示例所示示例所示",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "time": "2021-2-27",
+        "amount": "浏览 199"
+      },
+      {
+        "key": "8",
+        "label": "多行标题文本定位信息展示, 极限值为两行,",
+        "time": "2分钟前",
+        "amount": "浏览 199"
+      }
+    ],
+    "pagination": {
+      "total": 3
+    }
+  }
+}

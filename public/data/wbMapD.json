@@ -1,0 +1,168 @@
+{
+  "success": true,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "componentId": 1539483900905426945,
+    "center": [120.189857, 30.258336],
+    "zoom": 15,
+    "type": 1,
+    "apiPath": "/workbench/mobile/map/1539483900905426945?keyword=",
+    "dataSource": [
+      {
+        "key": "1539485044545327106",
+        "label": "杭州第九中学",
+        "image": null,
+        "phone": "18899899990",
+        "attach1": "杭州第九中学杭州第九中学杭州第九中学杭州第九中学",
+        "longitude": 120.196595,
+        "latitude": 30.260857
+      },
+      {
+        "key": "1539485159544754178",
+        "label": "泰和苑",
+        "image": null,
+        "phone": "15678809880",
+        "attach1": "泰和苑泰和苑泰和苑泰和苑",
+        "longitude": 120.18651,
+        "latitude": 30.261042
+      },
+      {
+        "key": "1539485287416500226",
+        "label": "檀香元",
+        "image": null,
+        "phone": "13788879990",
+        "attach1": "檀香元檀香元檀香元檀香元",
+        "longitude": 119.020196,
+        "latitude": 30.041563
+      },
+      {
+        "key": "1541250473333039105",
+        "label": "12",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.13668154784273,
+        "latitude": 30.297173986137643
+      },
+      {
+        "key": "1541251654629400577",
+        "label": "凯景公寓",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.190762,
+        "latitude": 30.268947
+      },
+      {
+        "key": "1541251961660841985",
+        "label": "发展大厦",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.185492,
+        "latitude": 30.258188
+      },
+      {
+        "key": "1541324644430454786",
+        "label": "v不能解决和法规规范规划和vv不能 vzn撒检查v测试v从v是吃撒从v参加ZB就是记不住记者从这件事女车主NVC支持VS从从基本",
+        "image": null,
+        "phone": "17836363736",
+        "attach1": "",
+        "longitude": 120.0,
+        "latitude": 31.0
+      },
+      {
+        "key": "1541328986390732802",
+        "label": "打铁关地铁站",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.176354,
+        "latitude": 30.284837
+      },
+      {
+        "key": "1541329201906655234",
+        "label": "杭州新闻大厦",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.170042,
+        "latitude": 30.271198
+      },
+      {
+        "key": "1541329390281236482",
+        "label": "杭州人保大厦",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.185706,
+        "latitude": 30.270308
+      },
+      {
+        "key": "1541330431634644993",
+        "label": "沙县小吃",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.118139,
+        "latitude": 30.338765
+      },
+      {
+        "key": "1541330552703229954",
+        "label": "小商品市场",
+        "image": null,
+        "phone": "13636746633",
+        "attach1": "",
+        "longitude": 120.202744,
+        "latitude": 30.274385
+      },
+      {
+        "key": "1541330655891390466",
+        "label": "银泰百货",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.204933,
+        "latitude": 30.25993
+      },
+      {
+        "key": "1541330898649317378",
+        "label": "华润万家",
+        "image": null,
+        "phone": "13535355333",
+        "attach1": "",
+        "longitude": 120.199409,
+        "latitude": 30.282909
+      },
+      {
+        "key": "1541606766145626113",
+        "label": "测试",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 110.611129,
+        "latitude": 42.397762
+      },
+      {
+        "key": "1549268730231111682",
+        "label": "杭州在水一方养老服务集团",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.180894,
+        "latitude": 30.221025
+      },
+      {
+        "key": "1549269015691247618",
+        "label": "杭州市拱墅区红叶家政服务中心",
+        "image": null,
+        "phone": "",
+        "attach1": "",
+        "longitude": 120.152264,
+        "latitude": 30.311007
+      }
+    ]
+  },
+  "requestId": "5a5bb0e4be53d662ca4c356c"
+}

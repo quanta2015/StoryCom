@@ -1,17 +1,26 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+export { default as List01 } from "./List/List01/index.jsx";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// import List01 from "./List/List01/index.jsx";
+// // import List02 from "./List/List02/index.jsx";
+// // import List03 from "./List/List03/index.jsx";
+// // import List04 from "./List/List04/index.jsx";
+// import List05 from "./List/List05/index.jsx";
+// // import List06 from "./List/List06/index.jsx";
+// // import List07 from "./List/List07/index.jsx";
+// // import List08 from "./List/List08/index.jsx";
+// // import List09 from "./List/List09/index.jsx";
+// // import List10 from "./List/List10/index.jsx";
+
+// export { 
+//   List01,
+//   // List02,
+//   // List03,
+//   // List04,
+//   List05,
+//   // List06,
+//   // List07,
+//   // List08,
+//   // List09,
+//   // List10,
+// };

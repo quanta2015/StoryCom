@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "code": 0,
+  "data": {
+    "title": "标题1 ",
+    "moreUrl": "www.baidu.com",
+    "chartTitle": "折线图标题",
+    "chartSub": "折线图副标题 折线图副标题 折线图副标题 折线图副标题",
+    "series": [
+      {
+        "data": [1107, 1201, 855, 901, 598, 201]
+      }
+    ],
+    "categories": [
+      { "k": "名称名称", "v": 1107 },
+      { "k": "名称名称", "v": 1201 },
+      { "k": "名称名称", "v": 855 },
+      { "k": "名称名称", "v": 901 },
+      { "k": "名称名称", "v": 598 },
+      { "k": "名称名称", "v": 201 }
+    ],
+    "btnList": [
+      {
+        "label": "本周",
+        "value": 2,
+        "apiPath": "/workbench/c-line/1538846770830311425?type=2"
+      },
+      {
+        "label": "近7天",
+        "value": 3,
+        "apiPath": "/workbench/c-line/1538846770830311425?type=2"
+      },
+      {
+        "label": "本月",
+        "value": 4,
+        "apiPath": "/workbench/c-line/1538846770830311425?type=2"
+      },
+      {
+        "label": "近30天",
+        "value": 5,
+        "apiPath": "/workbench/c-line/1538846770830311425?type=2"
+      }
+    ]
+  }
+}

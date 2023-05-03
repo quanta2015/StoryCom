@@ -1,0 +1,78 @@
+:root {
+  // 主色系参数
+  --clr-main: #518cfc;
+  --clr-sub: #eaf7ff;
+  --clr-grdf: #518cfc;
+  --clr-grdt: #4db0d4;
+  --clr-sel: #ff6600;
+
+  // svg滤镜 色系参数
+  --fil-grey: brightness(0) saturate(100%) invert(94%) sepia(0%) saturate(0%)
+    hue-rotate(294deg) brightness(91%) contrast(84%);
+  --fil-main: brightness(0) saturate(100%) invert(44%) sepia(88%)
+    saturate(1597%) hue-rotate(202deg) brightness(102%) contrast(98%);
+
+  // antd 主色系参数
+  // --adm-color-primary: var(--clr-main) !important;
+  // 有问题先注释
+  // .adm-search-bar-input-box-icon,
+  // .adm-radio-icon svg {
+  //     filter: var(--fil-main);
+  // }
+
+  // .amap-icon > img {
+  //   filter: var(--fil-main);
+  // }
+
+  // .amap-marker img {
+  //   filter: var(--fil-main);
+  // }
+}
+
+// 森林绿
+:root.green {
+  // 主色系参数
+  --clr-main: #58b9b6;
+  --clr-sub: #ecf7f7;
+  --clr-grdf: #8bd1a1;
+  --clr-grdt: #71b7b5;
+  --clr-sel: #ff6600;
+
+  // svg滤镜 色系参数
+  --fil-grey: brightness(0) saturate(100%) invert(94%) sepia(0%) saturate(0%)
+    hue-rotate(294deg) brightness(91%) contrast(84%);
+  --fil-main: brightness(0) saturate(100%) invert(68%) sepia(47%) saturate(397%)
+    hue-rotate(129deg) brightness(88%) contrast(88%);
+}
+
+// 政务红
+:root.red {
+  // 主色系参数
+  --clr-main: #c9171e;
+  --clr-sub: #ffebeb;
+  --clr-grdf: #d55630;
+  --clr-grdt: #c9171e;
+  --clr-sel: #ff6600;
+
+  // svg滤镜 色系参数
+  --fil-grey: brightness(0) saturate(100%) invert(94%) sepia(0%) saturate(0%)
+    hue-rotate(294deg) brightness(91%) contrast(84%);
+  --fil-main: brightness(0) saturate(100%) invert(12%) sepia(85%)
+    saturate(4451%) hue-rotate(350deg) brightness(105%) contrast(95%);
+}
+
+// 橙色
+:root.orange {
+  // 主色系参数
+  --clr-main: #ef8839;
+  --clr-sub: #fff9f0;
+  --clr-grdf: #ffb983;
+  --clr-grdt: #ef8839;
+  --clr-sel: #ff6600;
+
+  // svg滤镜 色系参数
+  --fil-grey: brightness(0) saturate(100%) invert(94%) sepia(0%) saturate(0%)
+    hue-rotate(294deg) brightness(91%) contrast(84%);
+  --fil-main: brightness(0) saturate(100%) invert(77%) sepia(44%)
+    saturate(6238%) hue-rotate(339deg) brightness(106%) contrast(87%);
+}

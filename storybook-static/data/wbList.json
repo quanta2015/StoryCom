@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "code": 0,
+  "data": {
+    "title": "工作台电话列表",
+    "moreUrl": "www.baidu.com",
+    "dataSource": [
+      {
+        "key": "1",
+        "label": "我是文本多行标题超出两行字符后点点展示文本文本文本文本文本…",
+        "attach1": "辅助文本文本辅助文本文本辅助文本文本…",
+        "image": "https://mqcai.top/cdn/house.png",
+        "phone": "17399883345"
+      },
+      {
+        "key": "2",
+        "label": "我是文本多行标题超出两行字符后点点展示文本文本文本文本文本…",
+        "attach1": "辅助文本字段",
+        "image": "https://mqcai.top/cdn/house.png",
+        "phone": "17399883345"
+      },
+      {
+        "key": "3",
+        "label": "我是文本单行标题示例",
+        "attach1": "",
+        "image": "",
+        "phone": "17399883345"
+      },
+      {
+        "key": "2",
+        "label": "我是文本多行标题超出两行字符后点点展示文本文本文本文本文本…",
+        "attach1": "辅助文本文本辅助文本文本辅助文本文本…",
+        "image": "",
+        "phone": ""
+      }
+    ]
+  }
+}

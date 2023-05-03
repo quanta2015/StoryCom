@@ -1,0 +1,98 @@
+//:global {
+.mobile-grade-item {
+  background-color: #ffffff;
+
+  .item-wrap {
+    padding: 16px;
+  }
+
+  .item-wrap-footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #999999;
+    align-items: center;
+
+    .task-title {
+      width: 100%;
+      display: flex;
+      font-size: 16px;
+      align-items: center;
+    }
+
+    .image {
+      width: 32px;
+      height: 32px;
+    }
+
+    .title-img {
+      width: 32px;
+      height: 32px;
+      background-color: #edf6fe;
+      border-radius: 50%;
+    }
+
+    .text-color {
+      border: none;
+      padding: 0 8px;
+      padding-top: 1px;
+      height: 20px;
+      color: #ef8839;
+      margin-left: 8px;
+    }
+
+    .item-title {
+      flex: 1;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      align-items: center;
+      width: 100%;
+      font-size: 16px;
+      color: #000000;
+      margin-left: 0;
+    }
+
+    .state {
+      font-size: 12px;
+    }
+  }
+
+  .subheads {
+    color: #999999;
+    margin: 10px 0;
+    font-size: 12px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .topsol-id {
+    padding-top: 10px;
+    border-top: 1px solid #e8eaf0;
+  }
+
+  .show {
+    display: none;
+  }
+
+  p,
+  ul,
+  li {
+    margin: 0;
+    padding: 0;
+  }
+
+  .adm-badge-dot {
+    margin-right: 4px !important;
+    margin-top: 6px !important;
+    min-width: 1px !important;
+    width: 5px !important;
+    height: 5px !important;
+    border-radius: 5px !important;
+  }
+  .adm-rate {
+    --star-size: 20px;
+  }
+}
+//}

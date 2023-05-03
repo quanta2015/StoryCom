@@ -1,0 +1,9 @@
+:root {
+  --sys-wid: 900px;
+
+  --clr-main: #336699;
+  --clr-sub:  #cde5e5;
+  --clr-grdf: #518cfc;
+  --clr-grdt: #4db0d4;
+  --clr-sel:  #ff6600;
+}

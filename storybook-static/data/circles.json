@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "dataSource": [
+      {
+        "images": [
+          "https://oss-dev.suosihulian.com/test/workNews/202205/3001001001000006_1526116866181218305/isgDRPbp72/isgDRPbp72.jpeg",
+          "https://oss-dev.suosihulian.com/test/workNews/202205/3001001001000006_1526116866181218305/Gelt02eI11/Gelt02eI11.jpeg"
+        ],
+        "busiId": "1519563191774691330",
+        "author": "张永青",
+        "createOperator": "1437253451940294747",
+        "busiTitle": "测试图片展示效果",
+        "busiUrl": "/sub-app/activity/detailSort?bizId=1519563191774691330&corpid=ww2da79c1d3c5042fd",
+        "personal": true,
+        "appCode": "workNews",
+        "avatar": "http://wework.qpic.cn/bizmail/sm0W6sic1Me1GJDH6V2t8hQXHmXtfufLmrIp0vSrwPyl1Oiabxofb1vQ/0",
+        "label": "张永青维表数据查看",
+        "orgId": 3001001001000006,
+        "time": "9分钟前",
+        "detailUrl": "/sub-app/activity/DynamicDetails?corpid=ww2da79c1d3c5042fd&id=1526117053666734082",
+        "key": "1526117053666734082"
+      },
+      {
+        "images": [
+          "https://oss-dev.suosihulian.com/test/workNews/202205/3001001001000006_1523892930252189698/yfFTgK3g1i/yfFTgK3g1i.jpeg"
+        ],
+        "busiId": "1519563191774691330",
+        "author": "张永青",
+        "createOperator": "1437253451940294747",
+        "busiTitle": "测试图片展示效果",
+        "busiUrl": "/sub-app/activity/detailSort?bizId=1519563191774691330&corpid=ww2da79c1d3c5042fd",
+        "personal": true,
+        "appCode": "workNews",
+        "avatar": "http://wework.qpic.cn/bizmail/sm0W6sic1Me1GJDH6V2t8hQXHmXtfufLmrIp0vSrwPyl1Oiabxofb1vQ/0",
+        "label": "张永青发布动态测试数据",
+        "orgId": 3001001001000006,
+        "time": "2022-05-10 13:09",
+        "detailUrl": "/sub-app/activity/DynamicDetails?corpid=ww2da79c1d3c5042fd&id=1523892958153715714",
+        "key": "1523892958153715714"
+      },
+      {
+        "images": [],
+        "busiId": "1519563191774691330",
+        "author": "杨林颖",
+        "createOperator": "1437253451940294678",
+        "busiTitle": "测试图片展示效果",
+        "busiUrl": "/sub-app/activity/detailSort?bizId=1519563191774691330&corpid=ww2da79c1d3c5042fd",
+        "personal": true,
+        "appCode": "workNews",
+        "avatar": "https://wework.qpic.cn/wwpic/809689_pZE6zvOQQkuA72R_1651081494/0",
+        "label": "测测",
+        "orgId": 3001001001000006,
+        "time": "2022-05-07 19:05",
+        "detailUrl": "/sub-app/activity/DynamicDetails?corpid=ww2da79c1d3c5042fd&id=1522895297330065409",
+        "key": "1522895297330065409"
+      }
+    ],
+    "title": "圈子",
+    "moreUrl": "/sub-app/activity/WorkDynamic?suiteCode=workNews?corpid=ww2da79c1d3c5042fd&appCode=workNews&mpid=wx411b8173a911825b"
+  },
+  "requestId": "9983b0e435dc73626c3d5ec9"
+}

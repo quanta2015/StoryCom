@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "dataSource": [
+      {
+        "key": "1",
+        "label": "参与人次",
+        "amount": 2,
+        "url": "/sub-app/1",
+        "newsType": 0
+      },
+      {
+        "key": "2",
+        "label": "参与人数",
+        "amount": 2,
+        "url": "/sub-app/2",
+        "newsType": 0
+      },
+      {
+        "key": "3",
+        "label": "评论",
+        "amount": 0,
+        "url": null,
+        "newsType": null
+      },
+      {
+        "key": "4",
+        "label": "点赞",
+        "amount": 0,
+        "url": null,
+        "newsType": null
+      }
+    ]
+  },
+  "requestId": "1883b0e4a7eeaa62aec594dd"
+}

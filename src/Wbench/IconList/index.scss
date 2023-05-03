@@ -1,0 +1,42 @@
+.ssm-wb-qicon {
+  background-color: #fff;
+  padding: calc(26px - 10px);
+  padding-bottom: 0;
+
+  & > .m-list {
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    // justify-content: space-evenly;
+
+    & > .m-item {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      width: var(--flex-item-width, 25%);
+      text-align: center;
+
+      & > .m-img {
+        width: var(--flex-item-image, 40px);
+        height: var(--flex-item-image, 40px);
+        border-radius: 50%;
+      }
+
+      & > label {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        /* ! autoprefixer: off */
+        -webkit-box-orient: vertical;
+        /* autoprefixer: on */
+        color: #333;
+        font-size: var(--content-default-size, 15px);
+        font-weight: var(--font-weight);
+        margin-top: 8px;
+        margin-bottom: 16px;
+        overflow: hidden;
+        word-break: break-all;
+      }
+    }
+  }
+}

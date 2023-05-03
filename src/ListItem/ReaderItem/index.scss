@@ -1,0 +1,36 @@
+.mobile-reader-item {
+  background-color: #fff;
+  padding: 12px 16px;
+  .title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: var(--desc-default-size, 12px);
+    color: #999;
+    margin-bottom: 8px;
+    .title-name {
+      font-size: var(--content-default-size, 15px);
+      color: #000;
+    }
+  }
+  .dept-names {
+    margin-bottom: 4px;
+  }
+  .department {
+    font-size: var(--desc-default-size, 12px);
+    color: #000;
+    position: relative;
+    .popover {
+      top: 0;
+      height: 18px;
+      width: 100%;
+      position: absolute;
+    }
+  }
+  .dept-names:last-child {
+    margin-bottom: 0;
+  }
+}
+.adm-popover .adm-popover-inner-content {
+  font-size: var(--content-second-size, 14px);
+}

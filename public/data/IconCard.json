@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "code": 0,
+  "data": {
+    "title": "卡片",
+    "colour": "rainbow",
+    "mode": 0,
+    "dataSource": [
+      {
+        "label": "模块 A",
+        "image": "https://static.suosihulian.com/file/richText/img/img3.webp",
+        "url": "www.baidu.com",
+        "subhead": "副标题A"
+      },
+      {
+        "label": "模块 B",
+        "url": "www.baidu.com",
+        "subhead": "副标题B"
+      },
+      {
+        "label": "模块 C",
+        "url": "www.baidu.com",
+        "subhead": "副标题C"
+      },
+      {
+        "label": "模块 D",
+        "url": "www.baidu.com",
+        "subhead": "副标题D"
+      },
+      {
+        "label": "模块 E",
+        "url": "www.baidu.com",
+        "subhead": "副标题E"
+      },
+      {
+        "label": "模块 F",
+        "url": "www.baidu.com",
+        "subhead": "副标题F"
+      }
+    ],
+    "pagination": {
+      "total": 10
+    }
+  }
+}

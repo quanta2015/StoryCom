@@ -1,0 +1,66 @@
+.mobile-circles {
+  //外壳
+  .shell-head {
+    background-color: #fff;
+    padding: 16px 16px 0 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .item-title {
+      color: #000;
+      //font-size: @column-title-size;
+      font-size: var(--title-default-size, 16px);
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+    }
+
+    .title-sign {
+      width: 4px;
+      height: 15px;
+      background-color: #508cffff;
+      border-radius: 4px;
+      margin-right: 6px;
+      //margin-top: 2px;
+    }
+
+    .more {
+      padding-top: 1px;
+      color: #999;
+      //font-size: @column-title-size;
+      font-size: var(--desc-default-size, 12px);
+
+      img {
+        width: 12px;
+        height: 12px;
+      }
+    }
+  }
+
+  .circles-data {
+    border-bottom: 1px solid #e8eaf0;
+  }
+  .circles-data:first-child {
+    .mobile-circles-item {
+      padding-top: 12px;
+    }
+  }
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  .show-hidden {
+    display: none !important;
+  }
+}
+::-webkit-scrollbar {
+  display: none;
+  width: 2px;
+  //background-color: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #8997bd;
+  border-radius: 25px;
+}

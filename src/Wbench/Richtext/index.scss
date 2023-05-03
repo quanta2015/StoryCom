@@ -1,0 +1,9 @@
+.ssm-wb-richtext {
+  background-color: #fff;
+  padding: calc(26px - 10px);
+  font-size: var(--content-second-size,14px);
+
+  & > .m-list {
+    width: 100%;
+  }
+}

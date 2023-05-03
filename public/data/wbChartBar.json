@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "chartTitle": "巡查上报活动参与人数统计",
+    "moreUrl": "www.baidu.com",
+    "btnList": [
+      {
+        "label": "本周",
+        "value": 2,
+        "apiPath": "/workbench/mobile/c-bar/1539198611704156161?type=2"
+      },
+      {
+        "label": "近7天",
+        "value": 3,
+        "apiPath": "/workbench/mobile/c-bar/1539198611704156161?type=3"
+      },
+      {
+        "label": "本月",
+        "value": 4,
+        "apiPath": "/workbench/mobile/c-bar/1539198611704156161?type=4"
+      },
+      {
+        "label": "近30天",
+        "value": 5,
+        "apiPath": "/workbench/mobile/c-bar/1539198611704156161?type=5"
+      },
+      {
+        "label": "至今",
+        "value": 6,
+        "apiPath": "/workbench/mobile/c-bar/1539198611704156161?type=6"
+      }
+    ],
+    "series": [
+      {
+        "name": "",
+        "data": [1]
+      }
+    ],
+    "categories": [
+      {
+        "k": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+        "v": 1
+      }
+    ]
+  },
+  "requestId": "f0a9b0e40e70c66279d769f3"
+}

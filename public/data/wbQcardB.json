@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "code": 0,
+  "data": {
+    "title": "卡片",
+    "colour": "rainbow",
+    "mode": 1,
+    "dataSource": [
+      {
+        "key": "1567567",
+        "label": "居民上报",
+        "image": "https://img2.baidu.com/it/u=1353071715,2687557812&fm=26&fmt=auto",
+        "url": "www.baidu.com",
+        "subhead": "副标题"
+      },
+      {
+        "key": "23242325",
+        "label": "居民上报",
+        "image": "",
+        "url": "www.baidu.com",
+        "subhead": "副标题"
+      }
+    ],
+    "pagination": {
+      "total": 10
+    }
+  }
+}

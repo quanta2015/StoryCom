@@ -1,0 +1,39 @@
+.ssm-wb-msg {
+  background-color: #fff;
+  padding: calc(26px - 10px);
+
+  .m-bd {
+    display: flex;
+    justify-content: space-evenly;
+
+    .m-item {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: var(--content-second-size, 14px);
+      color: #666;
+
+      & > label {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        /* ! autoprefixer: off */
+        -webkit-box-orient: vertical;
+        /* autoprefixer: on */
+        overflow: hidden;
+        word-break: break-all;
+        font-weight: var(--font-weight);
+        color: #333;
+      }
+
+      & > span {
+        margin-top: 8px;
+        font-weight: bold;
+        color: #ff1515;
+        font-size: var(--message-size, 19px);
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "code": 0,
+  "data": {
+    "dataSource": [
+      {
+        "accountName": "模块 A",
+        "iconUrl": "https://static.suosihulian.com/file/richText/img/img3.webp"
+      },{
+        "accountName": "模块 B",
+        "iconUrl": "https://static.suosihulian.com/file/richText/img/img3.webp"
+      },{
+        "accountName": "模块 C",
+        "iconUrl": "https://static.suosihulian.com/file/richText/img/img3.webp"
+      },{
+        "accountName": "模块 D",
+        "iconUrl": "https://static.suosihulian.com/file/richText/img/img3.webp"
+      },{
+        "accountName": "模块 E",
+        "iconUrl": "https://static.suosihulian.com/file/richText/img/img3.webp"
+      },{
+        "accountName": "模块 F",
+        "iconUrl": "https://static.suosihulian.com/file/richText/img/img3.webp"
+      }
+    ]
+  }
+}
